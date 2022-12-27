@@ -1,1 +1,1 @@
-# assisnments
+# assignments
